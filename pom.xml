@@ -12,10 +12,12 @@ xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/ma
         <module>JunitTesting</module>
 </modules>
         <!-- SonarQube plugin -->
+	<plugins>
 			 <plugin>
       				<groupId>org.sonarsource.scanner.maven</groupId>
       				<artifactId>sonar-maven-plugin</artifactId>
       				<version>3.2</version>
 			</plugin>
+	</plugins>
 
 </project>
