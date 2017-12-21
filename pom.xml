@@ -6,13 +6,13 @@ xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/ma
         <artifactId>Java-Projects</artifactId>
         <version>1.0</version>
         <packaging>pom</packaging>
-
+ <!--   
 <properties>
     <maven.compiler.source>1.6</maven.compiler.source>
     <maven.compiler.target>1.6</maven.compiler.target>
   </properties>
 
- <!--       
+    
         <build>
     <plugins>
         <plugin>
